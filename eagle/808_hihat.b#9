@@ -779,7 +779,7 @@ design rules under a new name.</description>
 <element name="C81*" library="TR808clone" package="E2-5" value="33/6.3" x="86.36" y="60.96" rot="R180"/>
 <element name="C82*" library="TR808clone" package="C025-025X050" value="220p" x="88.9" y="19.05"/>
 <element name="C83*" library="TR808clone" package="E2-5" value="33/6.3" x="81.28" y="15.24"/>
-<element name="CH_ACCENT" library="solpad" package="LSP11" value="LSP11" x="11.43" y="63.5"/>
+<element name="CH_ACCENT" library="solpad" package="LSP11" value="LSP11" x="12.7" y="63.5"/>
 <element name="CH_LEVEL" library="pot" package="3RP/1610N" value="100KA" x="80.01" y="77.47" rot="R180"/>
 <element name="CH_OUT" library="solpad" package="LSP11" value="LSP11" x="-20.32" y="107.95"/>
 <element name="CH_TRIG" library="solpad" package="LSP11" value="LSP11" x="7.62" y="63.5"/>
@@ -793,7 +793,7 @@ design rules under a new name.</description>
 <element name="OH_ACCENT" library="solpad" package="LSP11" value="LSP11" x="26.67" y="63.5"/>
 <element name="OH_LEVEL" library="pot" package="3RP/1610N" value="100KA" x="49.53" y="77.47" rot="R180"/>
 <element name="OH_OUT" library="solpad" package="LSP11" value="LSP11" x="-96.52" y="101.6"/>
-<element name="OH_TRIG" library="solpad" package="LSP11" value="LSP11" x="20.32" y="63.5"/>
+<element name="OH_TRIG" library="solpad" package="LSP11" value="LSP11" x="21.59" y="63.5"/>
 <element name="Q21*" library="transistor" package="TO92-CBE" value="" x="33.02" y="39.37" rot="R270"/>
 <element name="Q22*" library="transistor" package="TO92-CBE" value="" x="41.91" y="46.99" rot="R90"/>
 <element name="Q23*" library="transistor" package="TO92-CBE" value="" x="46.99" y="46.99" rot="R90"/>
@@ -1214,7 +1214,7 @@ design rules under a new name.</description>
 <contactref element="Q8*" pad="E"/>
 <contactref element="CH_ACCENT" pad="MP"/>
 <wire x1="11.43" y1="59.69" x2="15.24" y2="59.69" width="0" layer="19" extent="1-1"/>
-<wire x1="11.43" y1="63.5" x2="11.43" y2="59.69" width="0" layer="19" extent="1-1"/>
+<wire x1="12.7" y1="63.5" x2="11.43" y2="59.69" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="GND" class="1">
 <contactref element="C63*" pad="-"/>
@@ -1570,7 +1570,7 @@ design rules under a new name.</description>
 <signal name="N$23">
 <contactref element="D1" pad="A"/>
 <contactref element="OH_TRIG" pad="MP"/>
-<wire x1="20.32" y1="60.96" x2="20.32" y2="63.5" width="0" layer="19" extent="1-1"/>
+<wire x1="20.32" y1="60.96" x2="21.59" y2="63.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$24">
 <contactref element="D2" pad="C"/>
