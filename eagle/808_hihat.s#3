@@ -16023,7 +16023,6 @@ Source: http://www.alphapotentiometers.net/html/16mm_pot_2.html</description>
 <junction x="15.24" y="-38.1"/>
 <pinref part="C16*1" gate="G$1" pin="2"/>
 <pinref part="R59*1" gate="G$1" pin="2"/>
-<label x="15.24" y="2.54" size="1.778" layer="95" rot="R90"/>
 <wire x1="38.1" y1="10.16" x2="38.1" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="C67*" gate="G$1" pin="1"/>
 <pinref part="C71*" gate="G$1" pin="1"/>
