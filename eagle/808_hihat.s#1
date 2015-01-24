@@ -16362,7 +16362,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <sheet>
 <description>HitHat</description>
 <plain>
-<text x="2.54" y="106.68" size="3.81" layer="94">HitHat</text>
+<text x="2.54" y="106.68" size="3.81" layer="94">Hi-Hats</text>
 </plain>
 <instances>
 <instance part="Q4*" gate="G$1" x="-109.22" y="76.2" smashed="yes">
