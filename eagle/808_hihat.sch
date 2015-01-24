@@ -16433,7 +16433,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="Q28*" gate="G$1" x="15.24" y="25.4" smashed="yes">
 <attribute name="NAME" x="17.78" y="25.4" size="1.778" layer="95"/>
 </instance>
-<instance part="R141*" gate="G$1" x="7.62" y="25.4"/>
+<instance part="R141*" gate="G$1" x="-27.94" y="25.4"/>
 <instance part="R173*" gate="G$1" x="7.62" y="20.32" smashed="yes" rot="R180">
 <attribute name="NAME" x="11.43" y="26.4414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="11.43" y="23.622" size="1.778" layer="96" rot="R180"/>
@@ -16693,7 +16693,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="-99.06" y1="86.36" x2="-99.06" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="-99.06" y1="86.36" x2="-71.12" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="-71.12" y1="86.36" x2="-71.12" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="-71.12" y1="25.4" x2="2.54" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="-71.12" y1="25.4" x2="-33.02" y2="25.4" width="0.1524" layer="91"/>
 <junction x="-99.06" y="86.36"/>
 <pinref part="R13*" gate="G$1" pin="2"/>
 <pinref part="Q8*" gate="G$1" pin="C"/>
@@ -16832,6 +16832,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="Q28*" gate="G$1" pin="B"/>
 <pinref part="R141*" gate="G$1" pin="2"/>
 <pinref part="Q28*" gate="G$1" pin="B"/>
+<wire x1="-22.86" y1="25.4" x2="12.7" y2="25.4" width="0.1524" layer="91"/>
 <junction x="12.7" y="25.4"/>
 </segment>
 </net>
