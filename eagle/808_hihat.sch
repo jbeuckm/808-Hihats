@@ -14547,11 +14547,11 @@ by exp-lbrs.ulp</description>
 <instance part="V3" gate="1" x="27.94" y="-20.32"/>
 <instance part="R59*1" gate="G$1" x="25.4" y="0"/>
 <instance part="R58*1" gate="G$1" x="27.94" y="-12.7" rot="R90"/>
-<instance part="U$1" gate="G$1" x="-106.68" y="99.06"/>
-<instance part="P+1" gate="1" x="-91.44" y="116.84"/>
-<instance part="P-1" gate="1" x="-91.44" y="81.28"/>
-<instance part="V14" gate="1" x="-78.74" y="96.52"/>
-<instance part="P+2" gate="1" x="-86.36" y="111.76"/>
+<instance part="U$1" gate="G$1" x="-96.52" y="99.06"/>
+<instance part="P+1" gate="1" x="-81.28" y="116.84"/>
+<instance part="P-1" gate="1" x="-81.28" y="81.28"/>
+<instance part="V14" gate="1" x="-68.58" y="96.52"/>
+<instance part="P+2" gate="1" x="-76.2" y="111.76"/>
 <instance part="IC1" gate="A" x="147.32" y="48.26" rot="MR180"/>
 <instance part="IC1" gate="B" x="147.32" y="7.62" rot="MR180"/>
 <instance part="IC2" gate="A" x="27.94" y="-30.48" rot="MR180"/>
@@ -14581,11 +14581,11 @@ by exp-lbrs.ulp</description>
 <instance part="DIGI_NOISE" gate="-1" x="-7.62" y="-30.48" rot="R180"/>
 <instance part="DIGI_NOISE" gate="-2" x="-7.62" y="-27.94" rot="R180"/>
 <instance part="V1" gate="1" x="-5.08" y="-38.1"/>
-<instance part="U$2" gate="G$1" x="-106.68" y="25.4"/>
-<instance part="P+3" gate="1" x="-91.44" y="43.18"/>
-<instance part="P-4" gate="1" x="-91.44" y="7.62"/>
-<instance part="V4" gate="1" x="-78.74" y="22.86"/>
-<instance part="P+4" gate="1" x="-86.36" y="38.1"/>
+<instance part="U$2" gate="G$1" x="-96.52" y="25.4"/>
+<instance part="P+3" gate="1" x="-81.28" y="43.18"/>
+<instance part="P-4" gate="1" x="-81.28" y="7.62"/>
+<instance part="V4" gate="1" x="-68.58" y="22.86"/>
+<instance part="P+4" gate="1" x="-76.2" y="38.1"/>
 <instance part="Q1" gate="G1" x="104.14" y="55.88"/>
 <instance part="Q2" gate="G1" x="104.14" y="15.24"/>
 <instance part="Q3" gate="G1" x="50.8" y="10.16"/>
@@ -15043,7 +15043,7 @@ by exp-lbrs.ulp</description>
 <label x="-55.88" y="17.78" size="1.778" layer="95"/>
 <pinref part="CH_ACCENT" gate="1" pin="MP"/>
 <pinref part="U$2" gate="G$1" pin="CV"/>
-<wire x1="-96.52" y1="20.32" x2="-53.34" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="20.32" x2="-53.34" y2="20.32" width="0.1524" layer="91"/>
 <junction x="-53.34" y="20.32"/>
 <pinref part="Q14" gate="G$1" pin="E"/>
 </segment>
@@ -15156,8 +15156,8 @@ by exp-lbrs.ulp</description>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GND"/>
 <pinref part="V14" gate="1" pin="GND"/>
-<wire x1="-96.52" y1="101.6" x2="-78.74" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="-78.74" y1="101.6" x2="-78.74" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="101.6" x2="-68.58" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="-68.58" y1="101.6" x2="-68.58" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="V2" gate="1" pin="GND"/>
@@ -15194,8 +15194,8 @@ by exp-lbrs.ulp</description>
 <segment>
 <pinref part="U$2" gate="G$1" pin="GND"/>
 <pinref part="V4" gate="1" pin="GND"/>
-<wire x1="-96.52" y1="27.94" x2="-78.74" y2="27.94" width="0.1524" layer="91"/>
-<wire x1="-78.74" y1="27.94" x2="-78.74" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="27.94" x2="-68.58" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="-68.58" y1="27.94" x2="-68.58" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="V364" gate="1" pin="GND"/>
@@ -15210,8 +15210,7 @@ by exp-lbrs.ulp</description>
 <net name="N$219" class="0">
 <segment>
 <pinref part="C66*" gate="G$1" pin="1"/>
-<wire x1="78.74" y1="55.88" x2="83.82" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="76.2" y1="55.88" x2="78.74" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="55.88" x2="83.82" y2="55.88" width="0.1524" layer="91"/>
 <junction x="76.2" y="55.88"/>
 <pinref part="C64*" gate="G$1" pin="1"/>
 <wire x1="71.12" y1="55.88" x2="76.2" y2="55.88" width="0.1524" layer="91"/>
@@ -15308,8 +15307,8 @@ by exp-lbrs.ulp</description>
 <segment>
 <pinref part="U$1" gate="G$1" pin="+12V"/>
 <pinref part="P+1" gate="1" pin="+12V"/>
-<wire x1="-96.52" y1="104.14" x2="-91.44" y2="104.14" width="0.1524" layer="91"/>
-<wire x1="-91.44" y1="104.14" x2="-91.44" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="104.14" x2="-81.28" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="-81.28" y1="104.14" x2="-81.28" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R136*" gate="G$1" pin="2"/>
@@ -15357,16 +15356,16 @@ by exp-lbrs.ulp</description>
 <segment>
 <pinref part="U$2" gate="G$1" pin="+12V"/>
 <pinref part="P+3" gate="1" pin="+12V"/>
-<wire x1="-96.52" y1="30.48" x2="-91.44" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="-91.44" y1="30.48" x2="-91.44" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="30.48" x2="-81.28" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="-81.28" y1="30.48" x2="-81.28" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="-12V" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="-12V"/>
 <pinref part="P-1" gate="1" pin="-12V"/>
-<wire x1="-96.52" y1="99.06" x2="-91.44" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="-91.44" y1="99.06" x2="-91.44" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="99.06" x2="-81.28" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="-81.28" y1="99.06" x2="-81.28" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R156*" gate="G$1" pin="2"/>
@@ -15383,22 +15382,22 @@ by exp-lbrs.ulp</description>
 <segment>
 <pinref part="U$2" gate="G$1" pin="-12V"/>
 <pinref part="P-4" gate="1" pin="-12V"/>
-<wire x1="-96.52" y1="25.4" x2="-91.44" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="-91.44" y1="25.4" x2="-91.44" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="25.4" x2="-81.28" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="-81.28" y1="25.4" x2="-81.28" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="+5V" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="+5V"/>
 <pinref part="P+2" gate="1" pin="+5V"/>
-<wire x1="-96.52" y1="96.52" x2="-86.36" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="-86.36" y1="96.52" x2="-86.36" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="96.52" x2="-76.2" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="-76.2" y1="96.52" x2="-76.2" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$2" gate="G$1" pin="+5V"/>
 <pinref part="P+4" gate="1" pin="+5V"/>
-<wire x1="-96.52" y1="22.86" x2="-86.36" y2="22.86" width="0.1524" layer="91"/>
-<wire x1="-86.36" y1="22.86" x2="-86.36" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="22.86" x2="-76.2" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="-76.2" y1="22.86" x2="-76.2" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$20" class="0">
@@ -15427,7 +15426,7 @@ by exp-lbrs.ulp</description>
 <wire x1="-63.5" y1="111.76" x2="-63.5" y2="93.98" width="0.1524" layer="91"/>
 <junction x="-55.88" y="111.76"/>
 <pinref part="U$1" gate="G$1" pin="CV"/>
-<wire x1="-63.5" y1="93.98" x2="-96.52" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="-63.5" y1="93.98" x2="-86.36" y2="93.98" width="0.1524" layer="91"/>
 <pinref part="Q13" gate="G$1" pin="E"/>
 </segment>
 </net>
@@ -15438,7 +15437,7 @@ by exp-lbrs.ulp</description>
 <wire x1="-60.96" y1="91.44" x2="-60.96" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="OH_TRIG" gate="1" pin="MP"/>
 <pinref part="U$1" gate="G$1" pin="GATE"/>
-<wire x1="-96.52" y1="91.44" x2="-68.58" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="91.44" x2="-68.58" y2="91.44" width="0.1524" layer="91"/>
 <junction x="-68.58" y="91.44"/>
 </segment>
 </net>
@@ -15449,7 +15448,7 @@ by exp-lbrs.ulp</description>
 <wire x1="-58.42" y1="17.78" x2="-58.42" y2="0" width="0.1524" layer="91"/>
 <pinref part="CH_TRIG" gate="1" pin="MP"/>
 <pinref part="U$2" gate="G$1" pin="GATE"/>
-<wire x1="-96.52" y1="17.78" x2="-66.04" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="-86.36" y1="17.78" x2="-66.04" y2="17.78" width="0.1524" layer="91"/>
 <junction x="-66.04" y="17.78"/>
 </segment>
 </net>
