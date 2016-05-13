@@ -14365,7 +14365,7 @@ NS Package M08A</description>
 <part name="R131*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="22K"/>
 <part name="V362" library="supply1" deviceset="GND" device=""/>
 <part name="V363" library="supply1" deviceset="GND" device=""/>
-<part name="R130*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="10K"/>
+<part name="R130*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="10K"/>
 <part name="V364" library="supply1" deviceset="GND" device=""/>
 <part name="C60*" library="TR808clone" deviceset="CPOL-EU" device="E2.5-5" value="10/16"/>
 <part name="V365" library="supply1" deviceset="GND" device=""/>
@@ -14384,13 +14384,13 @@ NS Package M08A</description>
 <part name="V371" library="supply1" deviceset="GND" device=""/>
 <part name="R136*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100R"/>
 <part name="R141*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
-<part name="R173*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="330K"/>
+<part name="R173*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="330K"/>
 <part name="C63*" library="TR808clone" deviceset="CPOL-EU" device="E2.5-5" value=".47/50"/>
 <part name="V374" library="supply1" deviceset="GND" device=""/>
 <part name="C67*" library="TR808clone" deviceset="C-EU" device="050-024X044" value="22n"/>
 <part name="V375" library="supply1" deviceset="GND" device=""/>
 <part name="V376" library="supply1" deviceset="GND" device=""/>
-<part name="R145*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="100R"/>
+<part name="R145*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100R"/>
 <part name="R152*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100R"/>
 <part name="R150*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="2M"/>
 <part name="D13*" library="TR808clone" deviceset="1N4148" device="DO35-10" value="1N4148DO35-10"/>
@@ -14416,7 +14416,7 @@ NS Package M08A</description>
 <part name="C80*" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="470p"/>
 <part name="C74*" library="TR808clone" deviceset="C-EU" device="050-025X075" value="470p"/>
 <part name="R160*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="39K"/>
-<part name="R162*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="33K"/>
+<part name="R162*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
 <part name="R158*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="47K"/>
 <part name="R157*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="47K"/>
 <part name="V389" library="supply1" deviceset="GND" device=""/>
@@ -14430,7 +14430,7 @@ NS Package M08A</description>
 <part name="C82*" library="TR808clone" deviceset="C-EU" device="025-025X050" value="220p"/>
 <part name="R172*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="1K"/>
 <part name="R132*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100K"/>
-<part name="R140*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
+<part name="R140*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="33K"/>
 <part name="R156*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="22K"/>
 <part name="R154*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="22K"/>
 <part name="R144*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
