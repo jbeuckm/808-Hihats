@@ -14382,7 +14382,7 @@ NS Package M08A</description>
 <part name="V370" library="supply1" deviceset="GND" device=""/>
 <part name="R143*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
 <part name="V371" library="supply1" deviceset="GND" device=""/>
-<part name="R136*" library="TR808clone" deviceset="R-EU_" device="0207/2V" value="100R"/>
+<part name="R136*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="100R"/>
 <part name="R141*" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="33K"/>
 <part name="R173*" library="TR808clone" deviceset="R-EU_" device="0207/7" value="330K"/>
 <part name="C63*" library="TR808clone" deviceset="CPOL-EU" device="E2.5-5" value=".47/50"/>

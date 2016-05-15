@@ -14449,7 +14449,7 @@ NS Package M08A</description>
 <part name="C15*1" library="TR808clone" deviceset="C-EU" device="050-024X044" value="3.3n"/>
 <part name="C16*1" library="TR808clone" deviceset="C-EU" device="3.5MM_PITCH" value="3.3n"/>
 <part name="V3" library="supply1" deviceset="GND" device=""/>
-<part name="R59*1" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="82K"/>
+<part name="R59*1" library="TR808clone" deviceset="R-EU_" device="0207/7" value="82K"/>
 <part name="R58*1" library="TR808clone" deviceset="R-EU_" device="0207/5V" value="560R"/>
 <part name="IC1" library="linear" deviceset="TL072" device="P"/>
 <part name="U$1" library="eurorack" deviceset="POWER" device=""/>
