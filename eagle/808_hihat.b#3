@@ -2088,7 +2088,7 @@ design rules under a new name.</description>
 <element name="R132*" library="TR808clone" package="0207/5V" value="100K" x="16.51" y="11.43"/>
 <element name="R133*" library="TR808clone" package="0207/7" value="10K" x="10.16" y="17.78" rot="R180"/>
 <element name="R134*" library="TR808clone" package="0207/7" value="100K" x="30.226" y="22.86"/>
-<element name="R135*" library="TR808clone" package="0207/7" value="10K" x="33.02" y="35.56" rot="R180"/>
+<element name="R135*" library="TR808clone" package="0207/7" value="10K" x="32.258" y="35.56" rot="R180"/>
 <element name="R136*" library="TR808clone" package="0207/5V" value="100R" x="43.18" y="35.56" rot="R90"/>
 <element name="R137*" library="TR808clone" package="0207/5V" value="470R" x="39.37" y="33.02" rot="R90"/>
 <element name="R138*" library="TR808clone" package="0207/5V" value="470R" x="86.36" y="40.64" rot="R90"/>
@@ -2192,7 +2192,7 @@ design rules under a new name.</description>
 <contactref element="Q13" pad="1"/>
 <wire x1="17.78" y1="27.94" x2="17.78" y2="26.67" width="0.8128" layer="16"/>
 <wire x1="21.59" y1="31.75" x2="17.78" y2="27.94" width="0.8128" layer="16"/>
-<wire x1="26.67" y1="35.56" x2="29.21" y2="35.56" width="0.8128" layer="16"/>
+<wire x1="26.67" y1="35.56" x2="28.448" y2="35.56" width="0.8128" layer="16"/>
 <wire x1="22.86" y1="31.75" x2="26.67" y2="35.56" width="0.8128" layer="16"/>
 <wire x1="21.59" y1="31.75" x2="22.86" y2="31.75" width="0.8128" layer="16"/>
 </signal>
@@ -2206,7 +2206,7 @@ design rules under a new name.</description>
 <contactref element="R135*" pad="1"/>
 <contactref element="Q7" pad="2"/>
 <wire x1="33.02" y1="31.75" x2="33.02" y2="31.115" width="0.8128" layer="16"/>
-<wire x1="36.83" y1="35.56" x2="33.02" y2="31.75" width="0.8128" layer="16"/>
+<wire x1="36.068" y1="35.56" x2="33.02" y2="31.75" width="0.8128" layer="16"/>
 </signal>
 <signal name="N$573">
 <contactref element="R134*" pad="2"/>

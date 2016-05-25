@@ -144,6 +144,8 @@
 <wire x1="100" y1="0" x2="100" y2="80" width="0" layer="20"/>
 <wire x1="100" y1="80" x2="0" y2="80" width="0" layer="20"/>
 <wire x1="0" y1="80" x2="0" y2="0" width="0" layer="20"/>
+<rectangle x1="58.928" y1="70.612" x2="65.532" y2="74.168" layer="16"/>
+<rectangle x1="5.588" y1="47.498" x2="9.652" y2="54.102" layer="16"/>
 </plain>
 <libraries>
 <library name="TR808clone">
